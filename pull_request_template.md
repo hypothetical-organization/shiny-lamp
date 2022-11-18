@@ -1,6 +1,6 @@
 This new branch essentially contains a new file to contain msgs for command ingest 2 along with the msgids for the app
 
-## Description\
+## Description
 There is a file called cmd_ingest_2_msgs.h which contains the structs for the new command ingest 2 messages. In moonranger_msgids.h there are several msgids added in for the app
 
 This was required so the new command ingest 2 app would work thus creating functionality for communication with the iOBC.
@@ -19,7 +19,7 @@ Types of changes\
 [] Breaking change (fix or feature that would cause existing functionality to not work as expected)\
 
 
-##Checklist:\
+## Checklist:
 [] I have read and followed the CONTRIBUTING.md file\
 [x] I have applied the .clang-format file to my changes\
 [x] I have commented my code using Doxygen style comments (see Contributing MD for examples), particularly in hard-to-understand areas\
